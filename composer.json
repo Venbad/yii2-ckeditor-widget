@@ -53,13 +53,13 @@
         }
     },
     "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/Venbad/ckeditor-releases"
-    },
-    {
-      "type": "composer",
-      "url": "https://asset-packagist.org"
-    }
-  ],
+        {
+          "type": "vcs",
+          "url": "https://github.com/Venbad/ckeditor-releases"
+        },
+        {
+          "type": "composer",
+          "url": "https://asset-packagist.org"
+        }
+    ]
 }
