@@ -29,7 +29,7 @@
     },
     "require": {
         "yiisoft/yii2": "^2.0",
-        "ckeditor/ckeditor": "*",
+        "ckeditor/ckeditor": "dev-master#a89c317",
         "sunhater/kcfinder": "*"
     },
     "require-dev": {
